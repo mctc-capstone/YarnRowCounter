@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">TeamCollaboration</string>
+    <string name="current_row_description_label">Your Current Row Is</string>
+    <string name="next_button_text">Next</string>
+    <string name="previous_button_text">Previous</string>
+    <string name="row_count_text">1</string>
 </resources>

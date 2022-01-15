@@ -1,4 +1,4 @@
-package com.example.teamcollaboration
+package com.example.yarncounter
 
 import org.junit.Test
 
