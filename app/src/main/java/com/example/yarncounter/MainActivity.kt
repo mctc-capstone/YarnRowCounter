@@ -28,8 +28,9 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun decreaseRow() {
-        // TODO if the current row is 0, don't decrease.
-        currentRow--
+        if (currentRow > 0) {
+            currentRow--
+        }
         updateRowDisplay()
     }
 
