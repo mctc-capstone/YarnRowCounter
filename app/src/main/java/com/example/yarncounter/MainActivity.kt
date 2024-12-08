@@ -18,8 +18,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         rowCountText = findViewById(R.id.current_row)
-        // TODO there is an error here causing the buttons
-        //  to do the opposite task to expected.
         nextButton = findViewById(R.id.next_button)
         previousButton = findViewById(R.id.previous_button)
 
